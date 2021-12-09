@@ -1,0 +1,17 @@
+{
+  "git_revision": "c2b33b6fb8c71e01b0eb80116c64fed54fbbd702",
+  "artifacts": {
+    "installer": {
+      "filename": "ncTemplate-2026.05.r1-c2b33b6-Win64-VS2022.exe",
+      "size": 2679443,
+      "timestamp": "2026-05-13T00:16:38Z",
+      "sha256": "41a01c67d7b145254f4078a8e7207bcb3b8e01e835715df0cec9e11099b7bc42"
+    },
+    "portable": {
+      "filename": "ncTemplate-2026.05.r1-c2b33b6-Win64-VS2022.zip",
+      "size": 3248062,
+      "timestamp": "2026-05-13T00:16:38Z",
+      "sha256": "85ae2c956442b3aa08dbd091fe2e50b2780993633c70a621397d1df8baab4f93"
+    }
+  }
+}
